@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAN1Q5lCKXlDjRo7uJkSYTa01D5TuaeGh4',
-    appId: '1:375599021687:web:a736c57295373618339072',
-    messagingSenderId: '375599021687',
-    projectId: 'ecommerce-7c899',
-    authDomain: 'ecommerce-7c899.firebaseapp.com',
-    storageBucket: 'ecommerce-7c899.appspot.com',
-    measurementId: 'G-8S94MBF4FR',
+    apiKey: 'AIzaSyD_ra1vxYg4xfFpWLalYe6-tpSELQDFl9k',
+    appId: '1:663977562435:web:cc1635739685ae48705ff6',
+    messagingSenderId: '663977562435',
+    projectId: 'bazaar-sy',
+    authDomain: 'bazaar-sy.firebaseapp.com',
+    storageBucket: 'bazaar-sy.appspot.com',
+    measurementId: 'G-HBR4QTVH83',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB1Gn8LduEsFsJkhv4M4PT7prWBvBwlHPc',
-    appId: '1:375599021687:android:5922e4db2d2dcdbe339072',
-    messagingSenderId: '375599021687',
-    projectId: 'ecommerce-7c899',
-    storageBucket: 'ecommerce-7c899.appspot.com',
+    apiKey: 'AIzaSyCp0BS_BKh4f-dE039BVRaA1UExgw-D8TA',
+    appId: '1:663977562435:android:e308c44de133650b705ff6',
+    messagingSenderId: '663977562435',
+    projectId: 'bazaar-sy',
+    storageBucket: 'bazaar-sy.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCuYoeKz7ywUxYT0idK_ZxohNpf2x9Kuxk',
-    appId: '1:375599021687:ios:f34b57d88acd32a4339072',
-    messagingSenderId: '375599021687',
-    projectId: 'ecommerce-7c899',
-    storageBucket: 'ecommerce-7c899.appspot.com',
-    iosClientId: '375599021687-gi0dpt5qpdgab2aho3bfdh93634arfp5.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDEJGLrfdyow5MU5JgtgbQ61xKBQk_axQQ',
+    appId: '1:663977562435:ios:da6711827f9a0b4d705ff6',
+    messagingSenderId: '663977562435',
+    projectId: 'bazaar-sy',
+    storageBucket: 'bazaar-sy.appspot.com',
+    iosClientId: '663977562435-0kv3hnh6kgsbaiq9b9qtvtse3kcmompe.apps.googleusercontent.com',
     iosBundleId: 'com.example.ecommerceMuzamil',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCuYoeKz7ywUxYT0idK_ZxohNpf2x9Kuxk',
-    appId: '1:375599021687:ios:f34b57d88acd32a4339072',
-    messagingSenderId: '375599021687',
-    projectId: 'ecommerce-7c899',
-    storageBucket: 'ecommerce-7c899.appspot.com',
-    iosClientId: '375599021687-gi0dpt5qpdgab2aho3bfdh93634arfp5.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDEJGLrfdyow5MU5JgtgbQ61xKBQk_axQQ',
+    appId: '1:663977562435:ios:da6711827f9a0b4d705ff6',
+    messagingSenderId: '663977562435',
+    projectId: 'bazaar-sy',
+    storageBucket: 'bazaar-sy.appspot.com',
+    iosClientId: '663977562435-0kv3hnh6kgsbaiq9b9qtvtse3kcmompe.apps.googleusercontent.com',
     iosBundleId: 'com.example.ecommerceMuzamil',
   );
 }
